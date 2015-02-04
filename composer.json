@@ -1,0 +1,12 @@
+{
+"name": "ccm/locatorbundle",
+"license": "proprietary",
+"type": "project",
+"description": "My beautiful bundle.",
+"autoload": {
+"psr-0": { "": "src/", "SymfonyStandard": "app/" }
+},
+"require": {
+"php": ">=5.3.3"
+}
+}
